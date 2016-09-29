@@ -10,15 +10,15 @@ continues here under the name MockupFX.
 ----
 
 #### Contributors:
-Jean Chung
-Jonas Gilg
-Joachim Girschik
-Patrick Heinson
-Julian Korten
-Torben Lange
-Christian Peter
-Dominique Schleef
-Jan Schreiber
-Eda Tasdelen
-Janos Vollmer
+Jean Chung 
+Jonas Gilg 
+Joachim Girschik 
+Patrick Heinson 
+Julian Korten 
+Torben Lange 
+Christian Peter 
+Dominique Schleef 
+Jan Schreiber 
+Eda Tasdelen 
+Janos Vollmer 
 Michael Weissmann
