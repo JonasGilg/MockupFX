@@ -7,6 +7,8 @@ discontinued. It is still in early development and nearly unusable.
 Since it has the potential to become a great editor development 
 continues here under the name MockupFX.
 
+----
+
 #### Contributors:
 Jean Chung
 Jonas Gilg
