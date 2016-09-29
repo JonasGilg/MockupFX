@@ -1,0 +1,39 @@
+.tilepane{
+    -fx-padding: 50,50,50,50;
+
+
+}
+.editButton_edit{
+    -fx-background-image: url("/icons/rename_clean.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: white;
+    -fx-box-border: transparent;
+    -fx-min-width: 24;
+    -fx-min-height: 24;
+}
+
+.editButton_edit:hover {
+    -fx-background-color: lightgrey;
+}
+.editButton_accept{
+    -fx-background-image: url("/icons/rename_boxed.png");
+    -fx-min-width: 24;
+    -fx-min-height: 24;
+}
+.deleteButton{
+    -fx-border-color: lightgrey;
+    -fx-padding: 5;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+.descriptionTextArea{
+    -fx-border-color: lightgrey;
+    -fx-min-width: 50;
+    -fx-min-height: 50;
+}
+
+.descriptionTextArea:focused{
+    -fx-focus-color: grey;
+
+}
+

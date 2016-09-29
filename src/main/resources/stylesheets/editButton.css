@@ -1,0 +1,6 @@
+.editButton_edit{
+    -fx-background-image: url("/icons/rename_clean.png");
+}
+.editButton_accept{
+    -fx-background-image: url("/icons/rename_boxed.png");
+}

@@ -1,0 +1,14 @@
+.metadata
+*/RemoteSystemsTempFiles
+.settings
+.classpath
+.project
+.recommenders
+.gradle
+.idea
+*.iml
+gradlew
+build
+Thumbs.db
+Saves
+/bin/

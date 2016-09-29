@@ -1,0 +1,20 @@
+
+.tab-header-area {
+    -fx-padding: 0 0 0 65 ;
+    -fx-background-color: #4c1b0a;
+}
+
+.button {
+    -fx-text-fill: black;
+    -fx-background-color : #ffffff;
+    -fx-border-style: hidden;
+}
+
+.tab:hover {
+    -fx-background-color: #b3dcea;
+}
+
+.button:hover {
+    -fx-background-color: #f9fae7;
+    -fx-text-fill: black;
+}

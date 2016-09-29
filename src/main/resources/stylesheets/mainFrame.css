@@ -1,0 +1,49 @@
+.hbox {
+    -fx-background-color: #ffffff;
+}
+
+.split-pane {
+    -fx-padding: 1 0 0 0;
+}
+
+.menu-bar {
+    -fx-background-color: #ffffff;
+}
+
+.context-menu {
+    -fx-background-color: derive(#ffffff,50%);
+}
+
+.menu-item:focused {
+     -fx-background-color: #0096c9;
+}
+
+.menu-bar .label {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: black;
+    -fx-opacity: 0.9;
+}
+
+.button {
+    -fx-padding: 3 20 3 20;
+    -fx-border-color: #efefef;
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: #ffffff;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 8pt;
+    -fx-text-fill: #545454;
+
+}
+
+.button:hover {
+    -fx-background-color: #ccc;
+}
+
+.button:disabled  {
+    -fx-opacity: 0.4;
+    -fx-background-color: #a5a5a5;
+    -fx-text-fill: #4c1b0a;
+}
+
